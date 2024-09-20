@@ -1,4 +1,4 @@
-# bedrockchatbot
+# GenAI Chatbot
 
 Prerequisites :
 1. Create an aws profile called "my_profile" in your local to test from local
